@@ -14,14 +14,14 @@ Photos comes here
 <img src="{{ site.github.url }}/images/people/ozanericok.jpeg" height="150" width="150">
 
 * [**Ozan Burak Ericok**]
-M.S. Student <\br>
-Teaching Assistant<\br>
-BS:  Bogazici University, 2014<\br>
-MS: Bogazici University, 2017<\br>
+M.S. Student <br />
+Teaching Assistant <br />
+BS:  Bogazici University, 2014 <br />
+MS: Bogazici University, 2017 <br />
 
-**Thesis topic:** Optical characterization of Nanoparticle Aggregates<\br>
+**Thesis topic:** Optical characterization of Nanoparticle Aggregates. <br />
 
-**Research interests:** Radiative heat transfer, computational electromagnetics, inverse problems, global optimization, bayesian statistics, artificial learning.<\br>
+**Research interests:** Radiative heat transfer, computational electromagnetics, inverse problems, global optimization, bayesian statistics, artificial learning. <br />
 
 
 It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
