@@ -12,7 +12,7 @@ Photos comes here
 
 ### Alumni
 * **Ozan Burak Ericok** <br />
-<img src="{{ site.github.url }}/images/people/ozanericok.jpeg" height="150" width="150">
+<img src="{{ site.github.url }}/images/people/ozanericok.jpeg" height="150" width="150"><br />
 M.S. Student <br />
 Teaching Assistant <br />
 BS:  Bogazici University, 2014. <br />
