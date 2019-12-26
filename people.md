@@ -10,6 +10,12 @@ comments: false
 
 Photos comes here
 
+### Alumni
+<img src="{{ site.github.url }}/images/people/ozanericok.jpeg" height="300" width="300">
+Ozan Burak Ericok
+
+
+
 It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
 
 ### Research
