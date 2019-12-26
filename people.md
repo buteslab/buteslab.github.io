@@ -23,7 +23,6 @@ MS: Bogazici University, 2017. <br />
 
 **Research interests:** Radiative heat transfer, computational electromagnetics, inverse problems, global optimization, bayesian statistics, artificial learning. <br />
 
-
 **Ozan Burak Ericok** <br />
 <img src="{{ site.github.url }}/images/people/ozanericok.jpeg" height="150" width="150"><br />
 M.S. Student <br />
