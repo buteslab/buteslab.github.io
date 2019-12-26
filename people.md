@@ -15,9 +15,11 @@ Photos comes here
 <img src="{{ site.github.url }}/images/people/ozanericok.jpeg" height="150" width="150">
 M.S. Student <br />
 Teaching Assistant <br />
-BS:  Bogazici University, 2014 <br />
-MS: Bogazici University, 2017 <br />
+BS:  Bogazici University, 2014. <br />
+MS: Bogazici University, 2017. <br />
+
 **Thesis topic:** Optical characterization of Nanoparticle Aggregates. <br />
+
 **Research interests:** Radiative heat transfer, computational electromagnetics, inverse problems, global optimization, bayesian statistics, artificial learning. <br />
 
 
