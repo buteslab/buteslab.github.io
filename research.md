@@ -15,17 +15,22 @@ It all started when my father taught me some notions of Visual Basic, and with t
 <img src="{{ site.github.url }}/images/deep_learning.png" height="300" width="300">
 
 
-* [**Convolutional Oriented Boundaries**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
-State of the art in contour detection, hierarchical segmentation, and object proposals. Runs in 700 miliseconds on a GPU and a single CPU thread, thanks to a novel sparse representation of the segmentation results. From our ECCV 2016 paper.
+* [**Selective optical coatings and metamaterials**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
+Design of selective coatings for improved thermal performance for various applications such as solar thermal, solar photovoltaic, thermo-photovoltaic, buildings glazings, greenhouses and vertical farms.  These metamaterial based coatings utilize nano-particles or structures to achieve a certain spectral and directional behavior based on each application to improve performance.  Our research in this area is computational and involves modeling near and far field radiative transfer utilizing various methods for solution of radiative transport equation and Maxwell's equations with/without considering fluctuational electrodynamics.  
 
-* [**Multiscale Combinatorial Grouping**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
-Method for producing segmented object proposals, state of the art pre deep learning. Given an image, it computes around 5000 proposals of segmented objects in less than 30 seconds on a single thread. From our CVPR 2014 and TPAMI 2016 papers.
+* [**Colloidal suspensions for improved thermal performance**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
+Colloidal suspensions of nano-particles can be utilized for many different applications and  developing stable suspensions, understanding governing thermal enhancement mechanisms and utilizing them for different applications is of interest.  Our research in this field relies on experiments and modeling in macro-scale using CFD and in micro-scale using molecular dynamics.  
 
-* [**SEISM: Supervised Evaluation of Image Segmentation Methods**](http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html)<br>
-Toolbox to benchmark image segmentation methods, including our newly-proposed objects and parts measure. From our PAMI 2015 and CVPR 2013 papers.
+* [**Optical characterization of nano-structures**](http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html)<br>
+Optical characterization of nano-particles or their aggregates are required for many applications such as combustion diagnostics, nano-manufacturing or nano-technology based applications. Our research is computational, focusing on inferring morphological parameters defining these structures based on their light scattering behavior through solution of the inverse problem through gradient based/meta-heuristic search algorithms, Bayesian inference, and approximate Bayesian computation.   
 
-* [**Supervised Assessment of Segmentation Hierarchies**](https://imatge.upc.edu/web/resources/supervised-assessment-segmentation-hierarchies)<br>
+* [**Thermal management of opto/electronic devices**](https://imatge.upc.edu/web/resources/supervised-assessment-segmentation-hierarchies)<br>
 Toolbox to find the best cuts in a hierarchy of regions using combinatorial optimization and solved by CPLEX. From our ECCV 2012 paper.
+
+* [**Inverse design and control of thermal systems**](https://imatge.upc.edu/web/resources/supervised-assessment-segmentation-hierarchies)<br>
+Toolbox to find the best cuts in a hierarchy of regions using combinatorial optimization and solved by CPLEX. From our ECCV 2012 paper.
+
+ 
  
 ### Didactical
 
