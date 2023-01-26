@@ -1,14 +1,4 @@
----
-layout: page
-permalink: /research/
-title: Research Interests
-tags: [code]
-modified: 12-25-2019
-comments: false
----
-
-
-I am a thermal scientist focusing on heat transfer, optics, inverse problems, and nanotechnology.  My research relies on computational and experimental methods, not only limited with fundamentals but also practical engineering problems 
+My reserch focus on heat transfer, optics, inverse problems, and nanotechnology.  My research relies on computational and experimental methods, not only limited with fundamentals but also practical engineering problems 
 
 ### Research
 
@@ -18,8 +8,8 @@ I am a thermal scientist focusing on heat transfer, optics, inverse problems, an
 * [**Selective optical coatings and metamaterials**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
 Design of selective coatings for improved thermal performance for various applications such as solar thermal, solar photovoltaic, thermo-photovoltaic, buildings glazings, greenhouses and vertical farms.  These metamaterial based coatings utilize nano-particles or structures to achieve a certain spectral and directional behavior based on each application to improve performance.  Our research in this area is computational and involves modeling near and far field radiative transfer utilizing various methods for solution of radiative transport equation and Maxwell's equations with/without considering fluctuational electrodynamics.  
 
-* [**Colloidal suspensions for improved thermal performance**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
-Colloidal suspensions of nano-particles can be utilized for many different applications and  developing stable suspensions, understanding governing thermal enhancement mechanisms and utilizing them for different applications is of interest.  Our research in this field relies on experiments and modeling in macro-scale using CFD and in micro-scale using molecular dynamics.  
+* [**Engineered materials for improved thermal performance**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
+Existing materials have limitations for thermal performance and to improve engineered materials can be used.  Colloidal suspensions of nano-particles can be utilized as a working fluid for many different applications and  developing stable suspensions, understanding governing thermal enhancement mechanisms and utilizing them for different applications is of interest.  Our research in this field relies on experiments and modeling in macro-scale using CFD and in micro-scale using molecular dynamics to identify optimized engineered fluids for different applications.  
 
 * [**Optical characterization of nano-structures**](http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html)<br>
 Optical characterization of nano-particles or their aggregates are required for many applications such as combustion diagnostics, nano-manufacturing or nano-technology based applications. Our research is computational, focusing on inferring morphological parameters defining these structures based on their light scattering behavior through solution of the inverse problem through gradient based/meta-heuristic search algorithms, Bayesian inference, and approximate Bayesian computation.   
