@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /research/
+title: Research Interests
+tags: [code]
+modified: 12-25-2019
+comments: false
+---
+
 My research focus on heat transfer, optics, inverse problems, and nanotechnology.  My research relies on computational and experimental methods, not only limited with fundamentals but also practical engineering problems 
 
 ### Research
