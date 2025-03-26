@@ -1,0 +1,30 @@
+---
+title: "News"
+layout: default
+excerpt: "TESLab - News"
+sitemap: false
+permalink: /news.html
+---
+<h1>{{page.title}}</h1>
+
+<ul class="list-unstyled">
+    {% for article in site.data.news %}
+        <li class="media">
+            <div class="media-body">
+            <h4 class="mt-0 mb-1">{{ article.title }}</h4>
+            <p><small>{{ article.date }}</small></p>
+            {{ article.content }}
+            </div>
+            <p></p>
+            {% if article.items %}
+                <ul class="list-unstyled">
+                    {% for item in article.items %}
+                        <p>
+                        <li>{{item}}</li></p>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+            </p>
+        </li>
+    {% endfor %}
+</ul>
