@@ -1,0 +1,84 @@
+---
+layout: default
+---
+
+<div class="col-sm-12">
+
+    <div class="row text-center">
+        <!-- Avatar -->
+        <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ page.image }}"
+             class="img-circle"
+             style="filter: none; max-width: 200px;"/>
+
+        <!-- Name & Role -->
+        <h1>{{ page.title }}</h1>
+        <h3>{{ page.role }}</h3><br>
+    </div>
+
+    <div class="row text-center">
+        <!-- Social -->
+        <ul class="list-inline list-unstyled">
+            <!-- Linkedin -->
+            {% if page.social.linkedin %}
+                <li><a target="blank" href="{{page.social.linkedin}}"><i class="fab fa-linkedin fa-2x"></i></a></li>
+            {% endif %}
+            <!-- Github -->
+            {% if page.social.github %}
+                <li><a target="blank" href="{{page.social.github}}"><i class="fab fa-github fa-2x"></i></a></li>
+            {% endif %}
+            <!-- ResearcherID -->
+            {% if page.social.researcherid %}
+                <li><a target="blank" href="{{page.social.researcherid}}"><i class="ai ai-clarivate ai-2x"></i></a></li>
+            {% endif %}
+            <!-- Google Scholar -->
+            {% if page.social.google-scholar %}
+                <li><a target="blank" href="{{page.social.google-scholar}}"><i class="ai ai-google-scholar ai-2x"></i></a></li>
+            {% endif %}
+            <!-- Research Gate -->
+            {% if page.social.research-gate %}
+                <li><a target="blank" href="{{page.social.research-gate}}"><i class="ai ai-researchgate ai-2x"></i></a></li>
+            {% endif %}
+            <!-- Orcid -->
+            {% if page.social.orcid %}
+                <li><a target="blank" href="{{page.social.orcid}}"><i class="ai ai-orcid ai-2x"></i></a></li>
+            {% endif %}
+            <!-- Scopus -->
+            {% if page.social.scopus %}
+                <li><a target="blank" href="{{page.social.scopus}}"><i class="ai ai-scopus ai-2x"></i></a></li>
+            {% endif %}
+        </ul>
+    </div>
+
+    <!-- Education -->
+    <div class="row">
+        <h3>Education</h3>
+        <ul class="list-unstyled">
+            {% for education in page.education %}
+                <li>{{education}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <!-- Research Interests -->
+    {% if page.interests %}
+        <div class="row">
+            <h3>Research Interests</h3>
+            <ul class="list-unstyled">
+                {% for interests in page.interests %}
+                    <li>{{interests}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+    
+    <!-- Notes -->
+    {% if page.notes %}
+        <div class="row">
+            <ul class="list-unstyled">
+                {% for notes in page.notes %}
+                    <li>{{notes}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+</div>
