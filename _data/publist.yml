@@ -1,10 +1,15 @@
 - title: "Energy efficiency of solar illuminated vertical farms with different illumination strategies"
   authors: Kaya A, Erturk H, Yalcin RA
-  image: icheatmasstransfer_154_pub2_2024.jpg
+  image: yalcin_erturk_bse_2020.png
   link:
     url: https://doi.org/10.1016/j.energy.2024.132609
     display: Energy, Volume 307, 2024, 132609
-  description: Energy efficiency of solar illuminated vertical farms with different illumination scenarios investigated. Energy for lighting, heating and cooling loads with and without ventilation considered. Use of fluorescent reflectors, IR filters and LEDs as complementary/main lighting is considered. Solar illumination with fluorescent reflectors and IR filters improve energy efficiency. Improvement is more at higher latitudes with ventilation, which is opposite without ventilation. 
+  description: 
+  -Energy efficiency of solar illuminated vertical farms with different illumination scenarios investigated. 
+  -Energy for lighting, heating and cooling loads with and without ventilation considered. 
+  -Use of fluorescent reflectors, IR filters and LEDs as complementary/main lighting is considered. 
+  -Solar illumination with fluorescent reflectors and IR filters improve energy efficiency. 
+  -Improvement is more at higher latitudes with ventilation, which is opposite without ventilation. 
   highlight: 1
   
 - title: "Revisiting the Scattering Regime Map Based on Transport Scattering Coefficient for Dielectric Particulate Medium"
