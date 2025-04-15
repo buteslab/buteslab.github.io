@@ -74,8 +74,6 @@ The full list of journal articles is given below this page, these are also acces
 
 {% for publi in site.data.publist %}
 
- {{ forloop.index }}. <em>{{ publi.authors }}</em><br />
-  {{ publi.title }}<br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br /><br />
+ {{ forloop.index }}. <em>{{ publi.authors }}</em><br />  {{ publi.title }}<br /> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br /><br />
 
 {% endfor %}
