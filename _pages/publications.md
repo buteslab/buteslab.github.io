@@ -71,10 +71,10 @@ The full list of journal articles is given below this page, these are also acces
 11.	Ertürk H., Sauciuc I., Unrein, E. J., 2005, “An Apparatus and Method for Cooling Integrated Circuit Devices”, US Patent No. 6917522-B1.
 
 ## Journal Articles
-i=0
+
 {% for publi in site.data.publist %}
-i=i+1
+
   {{ publi.title }} <br />
- i <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
