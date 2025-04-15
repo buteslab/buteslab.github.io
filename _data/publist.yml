@@ -1,6 +1,19 @@
+- title: "Improved thermal management of electrical vehicles using internal magnetic field of the electric motors"
+  authors: Arslan B, Erturk H
+  image: arslan_erturk_ate_2025.jpg
+  link:
+    url: https://doi.org/10.1016/j.applthermaleng.2025.126383
+    display: Applied Thermal Engineering, Volume xx, 2025, xxxx (accepted in press)
+  description: 
+  -Built-in magnetic fields in EMs can be used to enhance cooling. 
+  -Magnetic WEG nanofluid used for EM cooling to enable MHD effects. 
+  -MHD effects boost cooling capacity by 20% and cut thermal resistance by 21%. 
+  -MHD effects on coolant can improve the reliability and life of EMs.
+  highlight: 1
+
 - title: "Energy efficiency of solar illuminated vertical farms with different illumination strategies"
   authors: Kaya A, Erturk H, Yalcin RA
-  image: yalcin_erturk_bse_2020.jpg
+  image: kaya_et_al_egy_2024.jpg
   link:
     url: https://doi.org/10.1016/j.energy.2024.132609
     display: Energy, Volume 307, 2024, 132609
@@ -43,7 +56,6 @@
     url: https://doi.org/10.1016/j.jaerosci.2023.106194
     display: Journal of Aerosol Science, Volume 172, 2023, 106194 (featured article of the issue)
   description: Necking in soot is considered for more accurate modeling of soot optical properties. Different necking models evaluated based on polarized light scattering measurements. Implementing necking is not sufficient to reproduce the measured scattering matrix. Predictions by different necking models with comparable aggregate volumes are similar.
-  highlight: 1
 
 - title: "Examination of Energy and Visual Comfort Performance of Thermo-chromic Coatings for Cellular Offices"
   authors: Haratoka C, Yalcin RA, Erturk H
