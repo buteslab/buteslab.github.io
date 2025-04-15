@@ -1,0 +1,311 @@
+- title: "Improved thermal management of electrical vehicles using internal magnetic field of the electric motors"
+  authors: Arslan B, Erturk H
+  image: arslan_erturk_ate_2025.jpg
+  link:
+    url: https://doi.org/10.1016/j.applthermaleng.2025.126383
+    display: Applied Thermal Engineering, Volume xx, 2025, xxxx (accepted in press)
+  description: 
+  -Built-in magnetic fields in EMs can be used to enhance cooling. 
+  -Magnetic WEG nanofluid used for EM cooling to enable MHD effects. 
+  -MHD effects boost cooling capacity by 20% and cut thermal resistance by 21%. 
+  -MHD effects on coolant can improve the reliability and life of EMs.
+  highlight: 1
+
+- title: "Energy efficiency of solar illuminated vertical farms with different illumination strategies"
+  authors: Kaya A, Erturk H, Yalcin RA
+  image: kaya_et_al_egy2024.jpg
+  link:
+    url: https://doi.org/10.1016/j.energy.2024.132609
+    display: Energy, Volume 307, 2024, 132609
+  description: 
+  -Energy efficiency of solar illuminated vertical farms with different illumination scenarios investigated. 
+  -Energy for lighting, heating and cooling loads with and without ventilation considered. 
+  -Use of fluorescent reflectors, IR filters and LEDs as complementary/main lighting is considered. 
+  -Solar illumination with fluorescent reflectors and IR filters improve energy efficiency. 
+  -Improvement is more at higher latitudes with ventilation, which is opposite without ventilation. 
+  highlight: 1
+  
+- title: "Revisiting the Scattering Regime Map Based on Transport Scattering Coefficient for Dielectric Particulate Medium"
+  authors: Taufiq A, Erturk H, Yalcin RA
+  image: icheatmasstransfer_154_pub2_2024.jpg
+  link:
+    url: https://doi.org/10.1016/j.icheatmasstransfer.2024.107387
+    display: International Communications in Heat and Mass Transfer, Volume 154, 2024, 107387
+  description: New scattering regime map showing transition between independent/dependent scattering. Scattering coefficient is not the correct metric to draw demarcation line of the map. Transport scattering coefficient used for establishing demarcation line. The vertical demarcation line at low size parameters is proven numerically. Refractive index affects the location of demarcation line.
+  highlight: 1
+
+- title: "Evaluation of Methods and Metrics for Identifying Scattering Regime of Dielectric Particulate Medium"
+  authors: Taufiq A, Erturk H, Yalcin RA
+  image: icheatmasstransfer_154_2024.jpg
+  link:
+    url: https://doi.org/10.1016/j.icheatmasstransfer.2024.107386
+    display: International Communications in Heat and Mass Transfer, Volume 154, 2024, 107386
+  description: SSF estimates scattering coefficient and asymmetry parameter for dielectric particulate medium. Transport scattering coefficient is the proper metric for representing scattering regime. Solution of Maxwell’s equations is possible for finite sized particulate media. Coherent scattering leads to overestimation of scattering coefficient. Calculated asymmetry parameter depends on considered ensemble size.
+  highlight: 1
+
+- title: "Effect of Necking and Polydispersity in Aggregate and Primary Particle Size on the Scattering Matrix of Soot Aggregates"
+  authors: Yazici HI, Erturk H, Liu F
+  link:
+    url: https://doi.org/10.1016/j.jaerosci.2023.106226
+    display: Journal of Aerosol Science, Volume 173, 2023, 106226
+  
+- title: "Different Necking Models in Predicting the Scattering Matrix of Soot Aggregates"
+  authors: Yazici HI, Erturk H, Liu F
+  image: j_aero_sci_172_2023.jpg
+  link:
+    url: https://doi.org/10.1016/j.jaerosci.2023.106194
+    display: Journal of Aerosol Science, Volume 172, 2023, 106194 (featured article of the issue)
+  description: Necking in soot is considered for more accurate modeling of soot optical properties. Different necking models evaluated based on polarized light scattering measurements. Implementing necking is not sufficient to reproduce the measured scattering matrix. Predictions by different necking models with comparable aggregate volumes are similar.
+
+- title: "Examination of Energy and Visual Comfort Performance of Thermo-chromic Coatings for Cellular Offices"
+  authors: Haratoka C, Yalcin RA, Erturk H
+  image: energy_267_2023.jpg
+  link:
+    url: https://doi.org/10.1016/j.energy.2022.126517
+    display: Energy, Volume 267, 2023, 126517
+
+- title: "Inverse Methods in Thermal Radiation Analysis and Experiment"
+  authors: Erturk H, Daun KJ, Franca FHR, Hajimirza S, Howell JR
+  link:
+    url: https://doi.org/10.1115/1.4056371
+    display: ASME Journal of Heat and Mass Transfer, Volume 145, 2023, 050801
+
+- title: "Performance analysis of near-field tandem thermophotovoltaic systems based on radiative absorption distribution"
+  authors: Li B, Zhang B, Song J, Hu R, Erturk H, Luo Z, Cheng Q
+  link:
+    url: https://doi.org/10.1016/j.icheatmasstransfer.2022.106488
+    display: International Communications in Heat and Mass Transfer, Volume 139, 2022, 106488
+
+- title: "Design of Thermo-chromic Glazing Windows Considering Energy Consumption and Visual Comfort for Cellular Offices"
+  authors: Haratoka C, Yalcin RA, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.solener.2022.06.025
+    display: Solar Energy, Volume 241, 2022, pp. 637-649
+
+- title: "A novel method for hemodynamic analysis of penile erection"
+  authors: Yildirim C, Erturk H, Pekkan K, Deniz S, Serefoglu EC
+  link:
+    url: https://doi.org/10.1038/s41443-020-00362-y
+    display: International Journal of Impotence Research, Volume 34, No. 1, 2022, pp. 55-63
+
+- title: "Monte Carlo Method Solution of Broadband Fluorescent Radiative Transfer Equation Considering Fluorescent Cascade"
+  authors: Yalcin RA, Erturk H
+  link:
+    url: https://doi.org/10.1364/AO.410325
+    display: Applied Optics, Volume 60, No. 4, 2021, pp. 1068-1077
+
+- title: "Convective Heat Transfer and Pressure Drop Characteristics of Graphene-Water Nanofluids in Transitional Flow"
+  authors: Demirkir C, Erturk H
+  link:
+    url: https://doi.org/10.48550/arXiv.2009.10462
+    display: International Communications in Heat and Mass Transfer, Volume 121, 2021, 105092
+
+- title: "Improving Crop Production in Solar Illuminated Vertical Farms using Fluorescence Coatings"
+  authors: Yalcin RA, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.biosystemseng.2020.02.007
+    display: Biosystems Engineering, Volume 193, 2021, pp. 25-36
+
+- title: "Continuous and optimally complete description of chemical environments using spherical Bessel descriptors"
+  authors: Kocer E, Mason JK, Erturk H
+  link:
+    url: https://doi.org/10.48550/arXiv.1907.02384
+    display: AIP Advances, Volume 10, 2020, 015021
+
+- title: "Rheological and Thermal Characterization of Graphene-Water Nanofluids: Hysteresis Phenomenon"
+  authors: Demirkir C, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.ijheatmasstransfer.2019.119113
+    display: International Journal of Heat and Mass Transfer, Volume 149, 2020, 119113
+
+- title: "Absorption and Plasmon Resonance of Bi-Metallic Core-Shell Nanoparticles on a Dielectric Substrate Near an External Tip"
+  authors: Avsar D, Erturk H, Menguc MP
+  link:
+    url: https://doi.org/10.1016/j.jqsrt.2019.106684
+    display: Journal of Quantitative Spectroscopy and Radiative Transfer, Volume 241, 2020, 106684
+
+- title: "Green-Kubo Assessments of Thermal Transport in Nano-colloids Based on Interfacial Effects"
+  authors: Akiner T, Kocer E, Mason JK, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.mtcomm.2019.05.009
+    display: Materials Today Communications, Volume 20, 2019, 100533
+
+- title: "Gaussian Process and Design of Experiments for Surrogate Modeling of Optical Properties of Fractal Aggregates"
+  authors: Ericok OB, Ozbek AK, Cemgil AT, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.jqsrt.2019.106643
+    display: Journal of Quantitative Spectroscopy and Radiative Transfer, Volume 239, 2019, 106643
+
+- title: "Improving Photosynthetic Efficiency using Greenhouse Coatings with Scattering and Fluorescent Pigments"
+  authors: Yalcin RA, Erturk H
+  link:
+    url: https://doi.org/10.1088/2053-1591/ab28b8
+    display: Materials Research Express, Volume 6, 2019, 085551
+
+- title: "A Novel Approach to Describe Chemical Environments in High Dimensional Neural Network Potentials"
+  authors: Kocer E, Mason JK, Erturk H
+  link:
+    url: https://doi.org/10.1063/1.5086167
+    display: Journal of Chemical Physics, Volume 150, 2019, 154102
+
+- title: "Plasmonic Responses of Metallic/Dielectric Core-Shell Nanoparticles on a Dielectric Substrate"
+  authors: Avsar D, Erturk H, Menguc MP
+  link:
+    url: https://doi.org/10.1088/2053-1591/ab07fd
+    display: Materials Research Express, Volume 6, 2019, 065006
+
+- title: "Enhancement of CPU Liquid Cooling Performance using hBN Nanofluids"
+  authors: Atik O, Erturk H
+  link:
+    url: https://doi.org/10.1115/1.4042022
+    display: ASME Journal of Thermal Science and Engineering Applications, Volume 11, 2019, 034501
+
+- title: "Plasmon coupling between complex gold nanostructures and a dielectric substrate"
+  authors: Rostampour Fathi Z, Menguc P, Erturk H
+  link:
+    url: https://doi.org/10.1364/AO.57.008954
+    display: Applied Optics, Volume 57, Issue 30, 2018, pp. 8954-8963
+
+- title: "Optical characterization limits of nanoparticle aggregates at different wavelengths using Approximate Bayesian Computation"
+  authors: Ericok OB, and Erturk H
+  link:
+    url: https://doi.org/10.1016/j.jqsrt.2018.04.006
+    display: Journal of Quantitative Spectroscopy and Radiative Transfer, Volume 213, 113-118
+
+- title: "Inverse Design of Spectrally Selective Thickness Sensitive Pigmented Coatings for Solar Thermal Applications"
+  authors: Yalcin RA, Erturk H
+  link:
+    url: https://doi.org/10.1115/1.4039276
+    display: ASME Transactions on Solar Energy Engineering, Volume 140, 2018, 031006
+
+- title: "Approximate Bayesian Computation Techniques for Optical Characterization of Nanoparticle Clusters"
+  authors: Ericok OB, Cemgil TA, Erturk H
+  link:
+    url: https://doi.org/10.1364/JOSAA.35.000088
+    display: Journal of Optical Society of America – A, Volume 35, No. 1, 2018, pp. 88-97
+
+- title: "Thermal Characterization Assessment of Rigid and Flexible Water Models in a Nanogap Using Molecular Dynamics"
+  authors: Akiner T, Mason JK, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.cplett.2017.09.012
+    display: Chemical Physics Letters, Volume 687, 2017, pp. 270-275
+
+- title: "Nanolayering Around and Thermal Resistivity of the Water Hexagonal Boron Nitride Interface"
+  authors: Akiner T, Mason JK, Erturk H
+  link:
+    url: https://doi.org/10.1063/1.4985913
+    display: Journal of Chemical Physics, Volume 147, 2017, 044709
+
+- title: "Inverse Characterization of Nanoparticle Clusters using Unpolarized Optical Scattering without Ex-Situ Measurements"
+  authors: Eriçok OB, Erturk H
+  link:
+    url: 
+    display: Journal of Quantitative Spectroscopy and Radiative Transfer, Volume 198, 2017, pp. 11-129
+
+- title: "Effect of Silicon AFM Probe’s Spatial Location on Local Absorption of Gold Nano-Structures Placed on a Dielectric Surface"
+  authors: Talebi Moghaddan S, Avsar D, Erturk H, Menguc MP
+  link:
+    url: 
+    display: Journal of Quantitative Spectroscopy and Radiative Transfer, Volume 197, 2017, pp. 106-113
+
+- title: "Optimization of Si/SiO2 Based Spectrally Selective Filters for Thermophotovoltaic Devices"
+  authors: Kazemi Khosrashahi F, Erturk H, Mengüç MP
+  link:
+    url: 
+    display: Journal of Quantitative Spectroscopy and Radiative Transfer, Volume 197, 2017, pp. 123-131
+
+- title: "Experimental Characterization of Laminar Forced Convection of hBN Water Nanofluid in a Circular Tube"
+  authors: Ilhan B, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.040
+    display: International Journal of Heat and Mass Transfer, Volume 111, 2017, pp. 500-507
+
+- title: "A New Interlayer Potential For Hexagonal Boron Nitride"
+  authors: Akıner T, Mason J.K, Erturk H
+  link:
+    url: https://doi.org/10.1088/0953-8984/28/38/385401
+    display: Journal of Physics - Condensed Matter, Volume 28, 2016, 385401
+
+- title: "Experimental Investigation of Heat Transfer Enhancement and Viscosity Change of hBN Nanofluids"
+  authors: Ilhan B, Kurt M, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.expthermflusci.2016.04.024
+    display: Experimental Thermal and Fluid Sciences, Volume 77, 2016, pp. 272-283
+
+- title: "Enhancing Local Absorption Patterns within Gold Nano-Structures on a Dielectric Surface under an AFM Probe and with Evanescent-Wave Illumination"
+  authors: Talebi Moghaddan S, Erturk H, Menguc MP
+  link:
+    url: https://acikbilim.yok.gov.tr/handle/20.500.12812/73072
+    display: Journal of Quantitative Spectroscopy and Radiative Transfer, Volume 178, 2016, pp. 124-133
+
+- title: "Single Phase Models for Improved Estimation of Friction Factor for Laminar Nanofluid Flow in Pipes"
+  authors: Heshmati F, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.ijheatmasstransfer.2015.12.014
+    display: International Journal of Heat and Mass Transfer, Volume 95C, 2016, pp. 416-425
+
+- title: "Comparison of Single and Two-Phase Models for Nanofluid Convection at the Entrance of a Uniformly Heated Tube"
+  authors: Goktepe S, Atalik K, Erturk H
+  link:
+    url: https://doi.org/10.1016/j.ijthermalsci.2014.01.014
+    display: International Journal of Thermal Sciences, Volume 80, No. 1, 2014, pp. 83-92
+
+- title: "Evaluation Of Image Reconstruction Algorithms For Non-Destructive Characterization Of Thermal Interfaces"
+  authors: Erturk H
+  link:
+    url: https://doi.org/10.1016/j.ijthermalsci.2011.02.002
+    display: International Journal of Thermal Sciences, Volume 50, No. 6, 2011, pp. 906-917
+
+- title: "Efficient Signal Transport Model for Remote Thermometry in Full Scale Systems"
+  authors: Erturk H, Howell, JR
+  link:
+    url: https://doi.org/10.1109/TSM.2009.2039183
+    display: IEEE Transactions on Semiconductor Manufacturing, Volume 23, No. 1, 2010, pp. 132-140
+
+- title: "Validation of Inverse Boundary Condition Design in a Thermometry Test Bed"
+  authors: Erturk H, Gamba, M, Ezekoye, OA, and Howell, JR
+  link:
+    url: https://doi.org/10.1615/ICHMT.2007.RadTransfProc
+    display: Journal of Quantitative Spectroscopy and Radiative Transfer, Volume 109, 2008, pp. 317-326
+
+- title: "Future CPU Cooling Building Blocks: Performance and Challenges"
+  authors: Sauciuc, I, Erturk H, Sahasrabudhe, S.H, Girouard, S, Bosak, HC, Ahuja, S, Chrysler, GM, Leija, J
+  link:
+    url: 
+    display: Intel Assembly Test and Technology Journal, Volume 9, pp. 31-42
+
+- title: "Novel Thermal Technologies for CPU Cooling Applications"
+  authors: Sauciuc, I, Chang, J-Y, Chau, D, Chrysler, G, Prasher, R, Erturk H
+  link:
+    url: 
+    display: Intel Assembly Test and Technology Journal, Volume 7, pp. 63-71
+
+- title: "Boundary Condition Design to Heat a Moving Object at Uniform Transient Temperature"
+  authors: Erturk H, Ezekoye, OA, and Howell, JR
+  link:
+    url: https://doi.org/10.1115/1.1763179
+    display: ASME Journal Manufacturing Science and Engineering, Volume 126, pp. 619-626 (SCI)
+
+- title: "The Use of Inverse Methods for the Design and Control of Radiant Sources"
+  authors: Howell, J.R, Daun, K.J, Erturk H, Gamba, M and Hosseini Sarvari, M
+  link:
+    url: https://doi.org/10.1299/jsmeb.46.470
+    display: JSME International Journal, Series B, Fluid and Thermal Engineering, Volume 46, pp. 470-478
+
+- title: "Inverse Methods for High Temperature Systems"
+  authors: Daun, K.J, Erturk H and Howell, JR
+  link:
+    url: https://www.academia.edu/download/84814656/272C_01P.pdf
+    display: A. Journal for Science and Engineering, Volume 27, No 2C, pp. 3-48
+
+- title: "The Application of An Inverse Formulation In The Design of Boundary Conditions for Transient Radiating Enclosures"
+  authors: Erturk H, Ezekoye, OA, and Howell, JR
+  link:
+    url: https://doi.org/10.1115/1.1513574
+    display: ASME Journal of Heat Transfer, Volume 124, pp. 1095-1102
+
+- title: "Comparison of Three Regularized Solution Techniques in a Three-Dimensional Inverse Radiation Problem"
+  authors: Erturk H, Ezekoye, OA, and Howell, JR
+  link:
+    url: https://doi.org/10.1016/S0022-4073(01)00212-6
+    display: Journal of Quantitative Spectroscopy and Radiative Transfer, Volume 73, pp. 307-316
